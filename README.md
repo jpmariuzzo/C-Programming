@@ -2,8 +2,7 @@ Exercises from C Programming for Everybody
 
 University of Michigan - Coursera
 
-ABOUT: 
-Learning the foundational elements of C can help anyone interested in programming 
+ABOUTLearning the foundational elements of C can help anyone interested in programming 
 increase their proficiency in languages like C++, Java, JavaScript, and Python. 
 In C Programming for Everybody, you’ll learn the history of C and C syntax as you 
 build foundational programming knowledge with C. Apply your knowledge to several 
