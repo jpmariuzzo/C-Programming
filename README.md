@@ -1,4 +1,4 @@
-Exercises from C Programming for Everybody
+Exercises from C Programming for Everybody Course
 
 University of Michigan - Coursera
 
